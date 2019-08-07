@@ -1,0 +1,8 @@
+
+1squid:S1220""Move this file to a named package.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÕº8ÿÓœÇ«-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ó×¤Ç«-
+tsquid:S2068
+"V'password' detected in this expression, review this potentially hard-coded credential.(¿Ìàø8ÿÓœÇ«-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8úÆŸÇ«-

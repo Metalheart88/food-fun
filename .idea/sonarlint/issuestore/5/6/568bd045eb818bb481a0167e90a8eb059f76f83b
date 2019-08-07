@@ -1,0 +1,15 @@
+
+ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ
+^squid:S2095a"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(„‡–
+fsquid:S2095^"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¹à˜ï
+_squid:S2095Œ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(şÂ‚®
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àÛ™“8ˆÃ¾È«-
+ksquid:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ
+qsquid:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ×©’
+dsquid:S2095‹"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ
+isquid:S2077t"RUse a variable binding mechanism to construct this query instead of concatenation.(µ¡Ğõ
+fsquid:S2095t"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µ¡Ğõ
+dsquid:S2095F"HUse try-with-resources or close this "Connection" in a "finally" clause.(èĞ¨˜üÿÿÿÿ
+^squid:S2095w"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(„‡–
+ksquid:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ
+esquid:S1192f"IDefine a constant instead of duplicating this literal "findById" 4 times.(²û•òùÿÿÿÿ

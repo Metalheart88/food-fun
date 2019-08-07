@@ -1,0 +1,13 @@
+
+ksquid:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ
+ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ
+^squid:S2095y"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(„‡–
+isquid:S2077v"RUse a variable binding mechanism to construct this query instead of concatenation.(œäê§
+ksquid:S2095_"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÆŸşÿÿÿÿ
+dsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ
+_squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(şÂ‚®
+^squid:S2095b"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(„‡–
+fsquid:S2095v"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(œäê§
+ksquid:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ
+esquid:S1192g"IDefine a constant instead of duplicating this literal "findById" 4 times.(²û•òùÿÿÿÿ
+dsquid:S2095I"HUse try-with-resources or close this "Connection" in a "finally" clause.(èĞ¨˜üÿÿÿÿ

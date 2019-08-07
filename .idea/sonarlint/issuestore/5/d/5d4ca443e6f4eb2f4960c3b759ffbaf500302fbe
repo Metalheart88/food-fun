@@ -1,0 +1,12 @@
+
+<squid:S1989 "%Add a "try/catch" block for "doPost".(‘›þá
+Xsquid:UselessImportCheck"/Remove this unused import 'service.CarService'.(çÜØ•ÿÿÿÿÿ
+Psquid:UselessImportCheck"'Remove this unused import 'domain.Car'.(ßÂ¥¬ÿÿÿÿÿ
+dsquid:S1192l"HDefine a constant instead of duplicating this literal "message" 7 times.(þŸˆÍýÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature( Üó
+Tsquid:UselessImportCheck"+Remove this unused import 'domain.CarType'.(ë€’Ïúÿÿÿÿ
+psquid:S1192Z"YDefine a constant instead of duplicating this literal "/pages/user/UserForm.jsp" 4 times.(úƒ—ó
+4squid:S1989>"Add a "try/catch" block.(¤­—Îþÿÿÿÿ
+4squid:S1989@"Add a "try/catch" block.(½óæ„úÿÿÿÿ
+nsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ØäÛ+
+<squid:S1989 "%Add a "try/catch" block for "doPost".(‘›þá

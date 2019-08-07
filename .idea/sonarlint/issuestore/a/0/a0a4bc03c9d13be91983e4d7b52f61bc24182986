@@ -1,0 +1,19 @@
+
+_squid:S1192d"HDefine a constant instead of duplicating this literal "  FROM " 3 times.(ĞÓ÷ƒ
+esquid:S1192q"IDefine a constant instead of duplicating this literal "findById" 4 times.(²û•òùÿÿÿÿ
+ksquid:S20953"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ
+fsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ùåø
+esquid:S1192f"IDefine a constant instead of duplicating this literal "  WHERE " 3 times.(é¬Ôıÿÿÿÿ
+_squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(şÂ‚®
+xsquid:S1192h"aDefine a constant instead of duplicating this literal "     AND ro.user_id = u.user_id " 3 times.(¾ú„à
+wsquid:S1192g"[Define a constant instead of duplicating this literal "     ro.car_id = c.car_id " 3 times.(ƒó½úÿÿÿÿ
+fsquid:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ùåø
+vsquid:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÉ’¾ûÿÿÿÿ
+ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ
+_squid:S2095‰"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(„‡–
+^squid:S2095l"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(„‡–
+osquid:S2077€"RUse a variable binding mechanism to construct this query instead of concatenation.(Ë—Ûğşÿÿÿÿ
+dsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ
+|squid:S1192e"fDefine a constant instead of duplicating this literal "     rent_orders ro, cars c, users u " 3 times.(şõÁo
+ksquid:S2095Q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ
+dsquid:S2095L"HUse try-with-resources or close this "Connection" in a "finally" clause.(èĞ¨˜üÿÿÿÿ
